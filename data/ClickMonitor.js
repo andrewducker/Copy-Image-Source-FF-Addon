@@ -1,9 +1,9 @@
 this.on('click', function(node)
 {
+	var href = '<A href="'+document.URL+'">';
 
-    	console.log(document.innerHTML);
-
-	var src=outerHTML(node);
+	var src=href+outerHTML(node)+'</A>';
+	
 	postMessage(src);
 });
 
