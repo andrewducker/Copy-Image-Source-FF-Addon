@@ -1,5 +1,6 @@
-This is the Translator add-on.  It contains:
+This is an addon for Firefox which copies all of the HTML associated with the IMG element of the image that is currently selected.
 
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+\lib\main.js is the main code file.
+\data\ClickToMonitor.js deals with what happens when the menu item is clicked.
+
+For more information, please email andrew@ducker.org.uk
