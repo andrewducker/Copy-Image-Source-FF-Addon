@@ -2,7 +2,7 @@
     "description": "Copies the HTML source for an image", 
     "license": "GPL 2.0", 
     "author": "Andrew Ducker (andrew@ducker.org.uk)", 
-    "version": "0.2", 
+    "version": "0.3", 
     "fullName": "Image Source Copier", 
     "id": "jid0-b4mCeaLtfjjqYYczn48tCwI5uAM", 
     "name": "copyimagesource"
